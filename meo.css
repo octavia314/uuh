@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(115, 127, 161);
+    background-color: rgb(140, 115, 161);
     font-family: 'zai Coffee Sackful Stamp', sans-serif;
     font-size: 70xd;
                                                                              
@@ -13,7 +13,7 @@ body {
     
     }
   img {
-        width: 50%;
+        width: 30%;
         height: 30%;
         text-align: center;
       }
