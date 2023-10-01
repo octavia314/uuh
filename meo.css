@@ -6,17 +6,21 @@ body {
     background-color: rgb(140, 115, 161);
     font-family: 'zai Coffee Sackful Stamp', sans-serif;
     font-size: 70xd;
-                                                                             
+        text-align: justify;           
 }
+
 .navbar{
     text-align: center;
-    
     }
-  img {
-        width: 10%;
-        height: 20%;
+  
+      
+      img {
+        width: auto;
+        height: auto;
         text-align: center;
       }
+
+    
 .container {
     width: 80%;
     margin: 0 auto;
@@ -29,17 +33,22 @@ h1 {
     color: #7c4197b7; 
     text-align: center;
     text-shadow: #261f2e;
+    
 }
 
 p {
     font-size: 20px;
     line-height: 1.5;
-    color: #6e518f; 
+    color: #322741; 
     text-align: justify;
 
+
 }
-a:hover{
-color: rgb(100, 243, 124);
+a:hover,
+.active,
+.active:focus
+{
+color: rgb(173, 133, 226);
 
 }
 
